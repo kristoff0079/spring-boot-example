@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>spring-boot-example-redis</module>
+  	<module>spring-boot-swagger</module>
+  	<module>spring-boot-example-swagger</module>
   </modules>
 </project>

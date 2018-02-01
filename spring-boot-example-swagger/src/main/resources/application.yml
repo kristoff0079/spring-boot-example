@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Spring Boot 使用Swagger2创建Resutful API
+server:
+  port: 8081
+  context-path: /swagger
