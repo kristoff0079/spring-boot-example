@@ -1,0 +1,5 @@
+/*.project
+.settings
+/spring-boot-example-redis/*.project
+/spring-boot-example-redis/*.classpath
+target
